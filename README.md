@@ -1,2 +1,3 @@
 # Video-Capture
-A python file. 
+A Python3.7 file. 
+The necessary libraries are installed. 
